@@ -1,6 +1,6 @@
 // Ctrl + Shift + F10 for first run
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, Rust world!");
     let apple_pie = vec![1., 0., 0.];
     let burger = vec![0., 1., 0.];
     let chekin = vec![0., 0., 1.];
