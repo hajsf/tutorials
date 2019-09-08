@@ -1,3 +1,5 @@
+#!/usr/bin/env julia
+
 #=
 main:
 - Julia version: 
@@ -6,19 +8,12 @@ main:
 Ctrl + Sfift + F10 for first run
 =#
 
-using Pkg
-Pkg.add("Plots")
-Pkg.add("Measures")
-Pkg.add("PyPlot")
-#Pkg.build("PyCall")
-using Plots, Measures
-pyplot()
+  #  Pkg.add("Gadfly")
+using Gadfly, LibPQ
 
-sum2(x::Int, y::Float16)::Float16 = x + y
-println(sum2(2,3))
-data = [rand(100), rand(100)];
+conn = LibPQ.Connection("dbname=postgres user=postgres password=Dana0Yara")
 
-h = histogram(data, layout = 2,
-              title = ["Dataset A" "Dataset B"], legend = false,
-              ylabel = "ylabel", margin = 5mm)
-display(h)
+p1 = plot([sin,cos], 0, 2pi)
+p2 = plot((x,y)->sin(x)+cos(y), 0, 2pi, 0, 2pi)
+p3 = spy(ones(33)*sin.(0:(pi/16):2pi)' + cos.(0:(pi/16):2pi)*ones(33)')
+hstack(p1,p2,p3)
