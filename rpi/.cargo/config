@@ -1,0 +1,18 @@
+#[build]
+#target = "armv7-unknown-linux-gnueabihf"
+
+#[target.armv7-unknown-linux-gnueabihf]
+#linker = "arm-linux-gnueabihf-gcc"
+
+# Below did not work
+[build]
+target = "armv7-unknown-linux-musleabihf"
+[target.armv7-unknown-linux-musleabihf]
+linker = "arm-linux-gnueabihf-ld"
+
+#reference:
+# https://rust.azdevs.org/2019-07-24/
+# https://sigmaris.info/blog/2019/02/cross-compiling-rust-on-mac-os-for-an-arm-linux-router/
+
+#Solution
+#https://akappel.github.io/2017/11/07/rpi-crosstool.html

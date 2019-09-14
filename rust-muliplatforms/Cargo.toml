@@ -1,0 +1,23 @@
+[package]
+name = "rust_muliplatforms"
+version = "0.1.0"
+authors = ["Hasan Yousef <hasan.ajsf@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[target.'cfg(target_arch="wasm32")'.dependencies]
+wasm-bindgen = "0.2.29"
+
+[target.'cfg(target_os="android")'.dependencies]
+jni = { version = "0.5", default-features = false }
+
+[lib]
+name = "rust_muliplatforms"
+#crate-type = ["cdylib"]
+crate-type = ["cdylib", "dylib", "staticlib"]
+# Android: dylib
+# iOS: cdylib [armv7s-apple-ios] and staticlib [Others]
+# WASM: cdylib
