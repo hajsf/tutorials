@@ -1,5 +1,5 @@
-// android/mod.rs
-#[cfg(target_os="android")]
+// rust-android/mod.rs
+#[cfg(target_os="rust-android")]
 #[allow(non_snake_case)]
 pub mod android {
     use crate::char_str;
