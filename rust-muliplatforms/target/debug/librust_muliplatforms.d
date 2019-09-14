@@ -1,1 +1,0 @@
-/Users/hasan/PycharmProjects/rust-muliplatforms/target/debug/librust_muliplatforms.dylib: /Users/hasan/PycharmProjects/rust-muliplatforms/src/android/mod.rs /Users/hasan/PycharmProjects/rust-muliplatforms/src/ios/mod.rs /Users/hasan/PycharmProjects/rust-muliplatforms/src/lib.rs /Users/hasan/PycharmProjects/rust-muliplatforms/src/wasm/mod.rs
