@@ -1,0 +1,11 @@
+/Users/hasan/PycharmProjects/Rust/rust-cli/read-pdf/target/debug/deps/error_chain-ed8c8b0bd8eff4bd.rmeta: /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/lib.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/impl_error_chain_kind.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/error_chain.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/quick_main.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/example_generated.rs
+
+/Users/hasan/PycharmProjects/Rust/rust-cli/read-pdf/target/debug/deps/liberror_chain-ed8c8b0bd8eff4bd.rlib: /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/lib.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/impl_error_chain_kind.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/error_chain.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/quick_main.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/example_generated.rs
+
+/Users/hasan/PycharmProjects/Rust/rust-cli/read-pdf/target/debug/deps/error_chain-ed8c8b0bd8eff4bd.d: /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/lib.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/impl_error_chain_kind.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/error_chain.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/quick_main.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/example_generated.rs
+
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/lib.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/impl_error_chain_kind.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/error_chain.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/quick_main.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.11.0/src/example_generated.rs:

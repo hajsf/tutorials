@@ -1,0 +1,12 @@
+/Users/hasan/PycharmProjects/Rust/rust-cli/email/target/debug/deps/serde_test-77c0205e9314604e.rmeta: /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/lib.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/assert.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/ser.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/de.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/token.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/error.rs
+
+/Users/hasan/PycharmProjects/Rust/rust-cli/email/target/debug/deps/libserde_test-77c0205e9314604e.rlib: /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/lib.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/assert.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/ser.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/de.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/token.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/error.rs
+
+/Users/hasan/PycharmProjects/Rust/rust-cli/email/target/debug/deps/serde_test-77c0205e9314604e.d: /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/lib.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/assert.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/ser.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/de.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/token.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/error.rs
+
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/lib.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/assert.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/ser.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/de.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/token.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-0.8.23/src/error.rs:

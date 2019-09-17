@@ -1,0 +1,23 @@
+[package]
+name = "email"
+version = "0.1.0"
+authors = ["hajsf <46838626+hajsf@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+lettre = "0.9"
+lettre_email = "0.9"
+mime = "0.3.13"
+config = "0.9"
+csv = "1.1.1"
+serde = { version = "1.0.99", features = ["derive"] }
+tera = "0.11.20"
+
+# The release profile optimization
+# used for `cargo build --release` then `strip target/release/email`
+[profile.release]
+opt-level = 'z'  # Optimize for size.
+lto = true       # Enable Link Time Optimization
+panic = 'abort'  # Abort on panic

@@ -1,0 +1,13 @@
+/Users/hasan/PycharmProjects/Rust/rust-cli/read-word/target/debug/deps/dotext-2c7d5c213976442c.rmeta: /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/lib.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/doc.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/docx.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/xlsx.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/pptx.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/odt.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/odp.rs
+
+/Users/hasan/PycharmProjects/Rust/rust-cli/read-word/target/debug/deps/libdotext-2c7d5c213976442c.rlib: /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/lib.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/doc.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/docx.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/xlsx.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/pptx.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/odt.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/odp.rs
+
+/Users/hasan/PycharmProjects/Rust/rust-cli/read-word/target/debug/deps/dotext-2c7d5c213976442c.d: /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/lib.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/doc.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/docx.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/xlsx.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/pptx.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/odt.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/odp.rs
+
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/lib.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/doc.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/docx.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/xlsx.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/pptx.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/odt.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/dotext-0.1.1/src/odp.rs:

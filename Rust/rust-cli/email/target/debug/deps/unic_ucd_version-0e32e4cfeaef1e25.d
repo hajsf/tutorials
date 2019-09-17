@@ -1,0 +1,10 @@
+/Users/hasan/PycharmProjects/Rust/rust-cli/email/target/debug/deps/unic_ucd_version-0e32e4cfeaef1e25.rmeta: /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/lib.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/pkg_info.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/unicode_version.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/../tables/unicode_version.rsv
+
+/Users/hasan/PycharmProjects/Rust/rust-cli/email/target/debug/deps/libunic_ucd_version-0e32e4cfeaef1e25.rlib: /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/lib.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/pkg_info.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/unicode_version.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/../tables/unicode_version.rsv
+
+/Users/hasan/PycharmProjects/Rust/rust-cli/email/target/debug/deps/unic_ucd_version-0e32e4cfeaef1e25.d: /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/lib.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/pkg_info.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/unicode_version.rs /Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/../tables/unicode_version.rsv
+
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/lib.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/pkg_info.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/unicode_version.rs:
+/Users/hasan/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-ucd-version-0.7.0/src/../tables/unicode_version.rsv:
